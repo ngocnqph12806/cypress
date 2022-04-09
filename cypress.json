@@ -1,4 +1,7 @@
 {
     "baseUrl": "http://123.25.21.145:1405",
-    "video": true
+    "video": true,
+    "screenshotsFolder": "cypress/videos",
+    "viewportWidth": 1920,
+    "viewportHeight": 1080
 }
