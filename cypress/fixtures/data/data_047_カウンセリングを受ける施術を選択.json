@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Test click button confirm",
+        "buttonName": "医院選択に進む",
+        "operationType": "1",
+        "target": "/worker/reservation/counseling/store"
+    },
+    {
+        "name": "Test click button cancel",
+        "buttonName": "戻る",
+        "operationType": "2",
+        "target": "/worker/patient/search"
+    }
+]
